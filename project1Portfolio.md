@@ -2,20 +2,34 @@
 
 ## Project Schedule
 
-| Day   | Deliverable                                  | Status |
-| :---- | :------------------------------------------- | :----- |
-| Day 1 | Project Description                          | [ ]    |
-| Day 2 | Wireframes / Priority Matrix / Timeline      | [ ]    |
-| Day 3 | Core Application Structure (HTML, CSS, etc.) | [ ]    |
-| Day 4 | MVP & Bug Fixes                              | [ ]    |
-| Day 5 | Final Touches                                | [ ]    |
-| Day 6 | Present                                      | [ ]    |
+| Day   | Deliverable                         | Status |
+| :---- | :---------------------------------- | :----- |
+| Day 1 | Project Approval / wire-framing     | [ ]    |
+| Day 2 | Setting up HTML / CSS / JS baseline | [ ]    |
+| Day 3 | MVP                                 | [ ]    |
+| Day 4 | MVP + PostMVP if there's time       | [ ]    |
+| Day 5 | Finishing Up and Debugging          | [ ]    |
+| Day 6 | Class Presentations                 | [ ]    |
 
 ---
 
 ## Project Description
 
-This is my first project and I'll be making my ideal website that will portray who I am, what I've done and how to contact me. My website will all be done with HTML, CSS, Javascript, jQuery. I will be basing my website off cool and simple websites like [Shadow Arena](https://shadowarena.pearlabyss.com/) and [WoW] (https://worldofwarcraft.com/en-us/). The formatting for both their mobile and PC is great.
+This is my first project and I'll be making my ideal website that will portray who I am, what I've done and how to contact me. My website will all be done with HTML, CSS, Javascript, jQuery. I will be basing my website off cool and simple websites like [Shadow Arena](https://shadowarena.pearlabyss.com/) and [WoW](https://worldofwarcraft.com/en-us/). The formatting for both their mobile and PC is great.
+
+---
+
+## Additional links to other inspirations
+
+[Interactive background with mouse + Delete/Re-appearing text](http://akul.me/)
+
+[Gray/black/white section scheme](https://ananth.co.in/)
+
+[Really cool and simple hamburger nav](http://kalynnakano.com/)
+
+[Carousel to flip through project previews in mobile](https://shadowarena.pearlabyss.com/en-US)
+
+[Easier setup if can't do carousel for projects page](https://worldofwarcraft.com/en-us/)
 
 ---
 
@@ -25,9 +39,11 @@ This is my first project and I'll be making my ideal website that will portray w
 
 ---
 
-## Wireframes
+## Wire-frames
 
-[Mobile](https://imgur.com/a/4v08Rah)
+[Mobile](https://imgur.com/a/S3zjKmq)
+
+[Tablet](https://imgur.com/a/It40LcE)
 
 [Desktop](https://imgur.com/a/4v08Rah)
 
@@ -46,38 +62,45 @@ This is my first project and I'll be making my ideal website that will portray w
 - Nav bar to all social media links at bottom for every oage
 - Nav bar to Home / About Me / Projects
 - Projects section will hav 3 columns with images of projects
+- Carousel setup
+- Gray out page when nav is clicked
+- Have everything on 1 page w/o refreshing
+- PDF link to Resume
 
 **PostMVP**
 
 - cool transitions when hamburger is clicked
 - cool transitions for desktop, idk what yet
+- Interaction background with cursor
+- Nav pop-up while spinning hamburger icon
 
 ---
 
 ## Functional Components
 
 **MVP**
-|Component |Priority |Estimated Time |Actual Time |
-|---|---|---|---|
-|Hamburger |H |1hr | |
-|Projects Previews |H |3hr | |
-|Regular Nav |H |2hr | |
-|Adding Form |H |1hr | |
-|Other sections and flex |M |3hr | |
-|Working w/ API |H |3hr | |
-|Responsive |H |3hr | |
-|Social Media Icons |L |2hr | |
-|About me page |M |1hr | |
-|Contact me form|M |1hr| |
-|Total |H |20hr | |
+| Component | Priority | Estimated Time | Actual Time |
+| :--------------------------- | :-------- | :-------------- | :----------- |
+| Setting up Grid/layouts | H | 3hr | |
+| Projects Previews | H | 3hr | |
+| Top Nav | H | 2hr | |
+| Responsive to user input | H | 3hr | |
+| Adding Form | L | 1hr | |
+| Filling sections with Flex | M | 3hr | |
+| Working w/API-UserInterface | H | 3hr | |
+| Hamburger Icon | H | 1hr | |
+| Social Media Icons/Links | L | 2hr | |
+| About me / Resume page | M | 2hr | |
+| PDF Resume | M | 1hr | |
+| Total | H | 24hr | |
 
 **PostMVP**
 |Component |Priority |Estimated Time |Actual Time |
-|---|---|---|---|
-|Project Hover |L |3hr | |
-|Interactive Banner |L |3hr | |
-|Transitions for Mobile |M |3hr | |
-|Transitions for PC |M |3hr | |
+| :----------------------------------- | :-------- | :--------------| :----------- |
+|Project slight-enlargement on hover |L |3hr | |
+|Interactive background w/ cursor |L |3hr | |
+|Text delete-reappears |M |3hr | |
+|Transitions for PC/Mobile/Tablet |M |3hr | |
 |Total |H |12hr | |
 
 ---
